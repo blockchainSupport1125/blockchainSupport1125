@@ -17,9 +17,16 @@ Nowadays I passionate about AI & Blockchain technologies so that I'm mainly focu
     <p>
         <h4 style="color:red">My Gmail : topdeveloper01234@gmail.com</h4>
     </p>
-    <!-- <p>
+    <p>
         <h4 style="color:red">My Telegram : https://t.me/make_trust_only</h4>
-    </p> -->
+    </p>
+    <p>
+        <h4 style="color:red">My Discord : https://discord.gg/ZF42zNqj</h4>
+    </p>
+        <p>
+        <h4 style="color:red">My Skype : https://join.skype.com/invite/o0MUsbTfOUIA</h4>
+    </p>
+    
 </p>
 
 #### Please Read
