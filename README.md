@@ -31,9 +31,9 @@ Nowadays I passionate about AI & Blockchain technologies so that I'm mainly focu
 
 #### Please Read
 
-- 🌱 Implement new idea with me.
+<!-- - 🌱 Implement new idea with me. -->
 - 👻 I’m looking for <span style="color:green">Client</span> to work <span style="color:red">together</span>
-- 💬 Ask about technology development.
+<!-- - 💬 Ask about technology development. -->
 - 🤑 Money is not IMPORTANT for me.
 - 👯‍♀️ I am sure credit is more important for each other.
 - 💯 Focusing to 100% work for project.
