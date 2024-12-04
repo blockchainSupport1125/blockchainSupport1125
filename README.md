@@ -20,9 +20,9 @@ Nowadays I passionate about AI & Blockchain technologies so that I'm mainly focu
     <p>
         <h4 style="color:red">My Skype : https://join.skype.com/invite/o0MUsbTfOUIA</h4>
     </p>
-    
 </p>
-
+<br/>
+<br/>
 
 <!-- - 🌱 Implement new idea with me. -->
 <!-- - 💬 Ask about technology development. -->
@@ -31,38 +31,6 @@ Nowadays I passionate about AI & Blockchain technologies so that I'm mainly focu
 - 🤑 Money is not IMPORTANT for me.
 - 👯‍♀️ I am sure credit is more important for each other.
 - 💯 Focusing to 100% work for project.
-
-#### Blockchain Development
-
-![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Network-Binance-informational?style=flat&logo=binance&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
-
-#### Game Development
-
-![](https://img.shields.io/badge/Language-Unity3D-informational?style=flat&logo=unity&logoColor=white&color=3bac3a)
-
-#### Web & Mobile Development
-
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-
-#### Backend Development
-
-![](https://img.shields.io/badge/Language-node.js-informational?style=flat&logo=node.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-CI-informational?style=flat&logo=codeigniter&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Golang-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
 
 #### Other
 
